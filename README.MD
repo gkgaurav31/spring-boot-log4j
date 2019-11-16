@@ -1,4 +1,4 @@
-# Sample SpringBoot application which uses log4j for logging.
+# Sample Spring Boot application which uses log4j for logging.
 
 In order to use any logging library other than Logback (default in SpringBoot), we need to exclude it from our dependencies.
 
